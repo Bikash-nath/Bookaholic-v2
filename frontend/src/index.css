@@ -1,0 +1,199 @@
+main {
+	min-height: 80vh;
+}
+
+h1 {
+	font-size: 1.8rem;
+	padding: 1rem 0;
+}
+
+h2 {
+	font-size: 1.4rem;
+	padding: 0.5rem 0;
+}
+
+h3 {
+	padding: 1rem 0;
+}
+
+.rating span {
+	margin: 0.1rem;
+}
+
+.title {
+	font-size: 2.5rem;
+	font-family: "Besley", serif;
+	display: inline;
+}
+
+.description {
+	font-family: "Merriweather", serif;
+	line-height: 1.6rem;
+	font-size: 1.1rem;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.link:hover {
+	font-weight: 500;
+}
+
+.link-title {
+	text-decoration: none;
+}
+
+.book-img {
+	aspect-ratio: 15 / 20;
+}
+
+.author-img {
+	width: auto;
+	height: auto;
+	max-height: 7rem;
+}
+
+.red {
+	font-size: 1.1rem;
+	color: red;
+}
+
+.grey {
+	font-size: 1rem;
+	color: grey;
+}
+.green {
+	font-size: 1rem;
+	color: green;
+}
+
+.warning {
+	font-size: 1rem;
+	color: yellow;
+}
+
+.account-btn {
+	width: 100%;
+	text-align: center;
+}
+
+.select-menu {
+	width: 2.5rem;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-itrems: center;
+}
+
+.left {
+	text-align: left;
+	width: 100%;
+	height: 100%;
+	/*align-items: left;*/
+}
+
+.bottom {
+	position: absolute;
+	bottom: 0;
+}
+
+.right {
+	text-align: right;
+	align-itrems: right;
+	/*display: flex;*/
+	/*justify-content: center;*/
+}
+
+.float-right {
+	float: right;
+}
+
+.modal-position-right {
+	margin-left: auto;
+	right: -20rem;
+	top: -1.7rem;
+}
+
+.order-info {
+	color: blue;
+	font-size: 0.95rem;
+}
+
+.footer {
+	background: #06011c;
+	padding: 1rem;
+	color: white;
+}
+.footer-bottom {
+	padding: 1em 0;
+}
+
+Col h5 {
+	margin-bottom: 0.4em;
+}
+
+ul li {
+	margin: 0.1em 0;
+}
+
+ul li a {
+	color: #d0d3d4;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+@media (max-width: 900px) {
+	.carousel-caption h1 {
+		font-size: 2.5vw;
+	}
+}
+
+.slick-prev:before,
+.slick-next:before {
+	color: black !important;
+}
+
+/*.form-label {
+  font-size: 0.7rem;
+}*/
+
+/*input.form-control {
+  font-size: 0.9rem;
+  margin: 0px;
+}*/
+/*
+.form-check-label {
+  font-size: 0.5rem;
+  margin-bottom: 0;
+}*/
+
+/*.container {
+  margin-left: 1rem !important;
+  margin-right: 1rem !important;
+  max-width: "150%";
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+*/
+
+/*
+.borderless {
+  /*border: none;*/
+border-top: 0 none;
+/*border: 0 none;
+}*/
+
+Badge {
+	font-weight: 600;
+	font-style: italic;
+	font-size: 20px;
+	color: red;
+	padding: 0 5px 5px 0;
+}
+
+Button {
+	margin: 5px 0;
+}

@@ -1,0 +1,33 @@
+<div class="gr-col">
+ <div data-react-class="ReactComponents.SeriesHeader" data-react-props="{&quot;title&quot;:&quot;A Song of Ice and Fire Series&quot;,&quot;subtitle&quot;:&quot;7 primary works • 18 total works&quot;,&quot;description&quot;:{&quot;truncatedHtml&quot;:&quot;The series comprises one epic story that is still being written. It is intended to be complete in seven volumes, but the author has stated it could go on for longer.\u003cbr/\u003e\u003cbr/\u003eThis series is also known as \u003ca href='https://www.goodreads.com/series/105522' rel='nofollow noopener'\u003eAs Crónicas de Gelo e Fogo\u003c/a\u003e in Portuguese or \u0026quot;Das Lied von Eis und Feuer\u0026quot; in German, where the majority of the books are split into two parts and receive a s…&quot;,&quot;html&quot;:&quot;The series comprises one epic story that is still being written. It is intended to be complete in seven volumes, but the author has stated it could go on for longer.\u003cbr /\u003e\u003cbr /\u003eThis series is also known as \u003ca href=\&quot;https://www.goodreads.com/series/105522\&quot; rel=\&quot;nofollow noopener\&quot;\u003eAs Crónicas de Gelo e Fogo\u003c/a\u003e in Portuguese or \&quot;Das Lied von Eis und Feuer\&quot; in German, where the majority of the books are split into two parts and receive a separate numbering, while in the italian version, known as \u003ca href=\&quot;https://www.goodreads.com/series/104861\&quot; rel=\&quot;nofollow noopener\&quot;\u003eLe Cronache del Ghiaccio e del Fuoco\u003c/a\u003e the books are split into two or more parts and receive a separate numbering.\u003cbr /\u003e\u003cbr /\u003eAlso available is a prequel series called \u003ci\u003e\u003ca href=\&quot;https://www.goodreads.com/series/49615\&quot; rel=\&quot;nofollow noopener\&quot;\u003eTales of Dunk and Egg\u003c/a\u003e,\u003c/i\u003e and \u003ci\u003e\u003ca href=\&quot;https://www.goodreads.com/series/265662\&quot; rel=\&quot;nofollow noopener\&quot;\u003eThe Graphic Novels\u003c/a\u003e.\u003c/i\u003e&quot;}}">
+  <div class="responsiveSeriesHeader" data-react-checksum="1264242976" data-reactid=".1uwg5svpade">
+   <div class="responsiveSeriesHeader__title" data-reactid=".1uwg5svpade.0">
+    <h1 class="gr-h1 gr-h1--serif gr-h1--noMargin u-paddingBottomTiny" data-reactid=".1uwg5svpade.0.0">
+     A Song of Ice and Fire Series
+    </h1>
+   </div>
+   <div class="responsiveSeriesHeader__subtitle u-paddingBottomSmall" data-reactid=".1uwg5svpade.1">
+    7 primary works • 18 total works
+   </div>
+   <div class="u-paddingBottomSmall" data-reactid=".1uwg5svpade.2">
+    <div class="expandableHtml" data-reactid=".1uwg5svpade.2.0">
+     <span data-reactid=".1uwg5svpade.2.0.0">
+      The series comprises one epic story that is still being written. It is intended to be complete in seven volumes, but the author has stated it could go on for longer.
+      <br/>
+      <br/>
+      This series is also known as
+      <a href="https://www.goodreads.com/series/105522" rel="nofollow noopener">
+       As Crónicas de Gelo e Fogo
+      </a>
+      in Portuguese or "Das Lied von Eis und Feuer" in German, where the majority of the books are split into two parts and receive a s…
+     </span>
+     <button class="gr-buttonAsLink u-marginLeftTiny" data-reactid=".1uwg5svpade.2.0.1">     
+      More
+     </button>     
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+[Finished in 326ms]

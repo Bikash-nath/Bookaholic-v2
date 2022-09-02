@@ -1,0 +1,11 @@
+uname:   bikas
+pswd:    bikas21
+email:   bikasnath21@gmail.com
+
+uname:   spartan21
+pswd:    React@21
+email:   spartan21@gmail.com
+
+uname:   max123
+pswd:    123
+email:   max123@google.com

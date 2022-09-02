@@ -1,0 +1,22 @@
+>>python3 manage.py shell
+
+from loader.load_books import db_loader
+from loader.load_series import db_loader
+from loader.load_authors import db_loader
+from loader.genre_load import db_loader
+
+db_loader()
+db_loader('Amish Tripathi')
+
+
+
+from bookstore.models import Book, Author, Series
+
+'Stephen King'
+'J. K. Rowling'
+'Chetan Bhagat'
+
+
+api/books/list?search=Amish&page=3  //search functionality w/ pagination
+
+api/books/list?search=Amish&ordering=-date_published  //search functionality w/ ordering

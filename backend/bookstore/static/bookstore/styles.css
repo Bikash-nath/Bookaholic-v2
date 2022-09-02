@@ -1,0 +1,16 @@
+body{background-color:#F4F6F6; 
+    padding: 30px;}
+p{text-align: justify; 
+    font-family: "Arial"; 
+    font-size: 16px; 
+    word-spacing: 5px;}
+ul{font-family: "Arial"; 
+    font-size: 16px;
+    word-spacing: 5px;}
+a{text-decoration: none; 
+    color: black; 
+    font-family: "Arial";
+    font-size:16px;}
+a:hover{font-weight: bold;}
+h3{font-family: Georgia;}
+h2{font-family: Georgia;}
