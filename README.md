@@ -3,10 +3,10 @@
 **Bookaholic is an online book store where customers can explore, read, buy or sell books at affordable pricing.**
 
 **Some Key Features are:**
-* Book search
-* Author search
+* Book Search & Read
+* Author Search
 * Favourite Books & Genres
-* Follow Authors
+* Follow Authors & Series*
 * Search Filters & Pagination
 * Carousels & Slick Slider
 * User Login & SignUp
