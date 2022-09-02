@@ -1,4 +1,4 @@
-# Bookaholic-version-2.0
+# Bookaholic version-2.0
 
 **Bookaholic is an online book store where customers can explore, read, buy or sell books at affordable pricing.**
 
